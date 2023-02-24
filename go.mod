@@ -31,10 +31,9 @@ require (
 	github.com/spf13/pflag v1.0.3
 	github.com/src-d/enry/v2 v2.1.0
 	github.com/src-d/imports v0.0.0-20191128152346-bf22b73550b0
-	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/tensorflow/tensorflow v0.0.0-20180308082300-f73d7c90ed05 // indirect
-	golang.org/x/crypto v0.0.0-20180904163835-0709b304e793
+	golang.org/x/crypto v0.1.0
 	google.golang.org/grpc v1.16.0 // indirect
 	gopkg.in/bblfsh/client-go.v3 v3.2.0
 	gopkg.in/bblfsh/sdk.v1 v1.17.0 // indirect
